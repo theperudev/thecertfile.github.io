@@ -13,13 +13,13 @@ thekey.doitnow("SHlwZWRQZXIgTWFya3VwIExhbmd1YWdl"),
 },
 {
 num : 2,
-ok : thekey.doitnow("Q29vcmVjdCBDb2RlIEZvciBTbWFsbGVzdCBIZWFkaW5n"),
-wr : thekey.doitnow("PGNvZGU+PGg2PjwvY29kZT4="),
+ok : thekey.doitnow("Q29ycmVjdCBDb2RlIEZvciBTbWFsbGVzdCBIZWFkaW5n"),
+wr : thekey.doitnow("Jmx0O2g2Jmd0Ow=="),
 ch : [
 thekey.doitnow("Jmx0O2g5Jmd0Ow=="),
-thekey.doitnow("PGNvZGU+PGg2PjwvY29kZT4="),
-thekey.doitnow("PGNvZGU+PGgxPjwvY29kZT4="),
-thekey.doitnow("PGNvZGU+PGhzPjwvY29kZT4="),
+thekey.doitnow("Jmx0O2g2Jmd0Ow=="),
+thekey.doitnow("Jmx0O2gxJmd0Ow=="),
+thekey.doitnow("Jmx0O2hzJmd0Ow=="),
 
 ]
 },
