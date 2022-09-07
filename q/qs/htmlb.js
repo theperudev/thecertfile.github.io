@@ -14,12 +14,12 @@ thekey.doitnow("SHlwZWRQZXIgTWFya3VwIExhbmd1YWdl"),
 {
 num : 2,
 ok : thekey.doitnow("Q29vcmVjdCBDb2RlIEZvciBTbWFsbGVzdCBIZWFkaW5n"),
-wr : thekey.doitnow("PGg2Pg=="),
+wr : thekey.doitnow("PGNvZGU+PGg2PjwvY29kZT4="),
 ch : [
-thekey.doitnow("PGg5Pg=="),
-thekey.doitnow("PGg2Pg=="),
-thekey.doitnow("PGgxPg=="),
-thekey.doitnow("PGhzPg=="),
+thekey.doitnow("PGNvZGU+PGg5PjwvY29kZT4="),
+thekey.doitnow("PGNvZGU+PGg2PjwvY29kZT4="),
+thekey.doitnow("PGNvZGU+PGgxPjwvY29kZT4="),
+thekey.doitnow("PGNvZGU+PGhzPjwvY29kZT4="),
 
 ]
 },
