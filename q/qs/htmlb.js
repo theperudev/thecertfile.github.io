@@ -16,7 +16,7 @@ num : 2,
 ok : thekey.doitnow("Q29vcmVjdCBDb2RlIEZvciBTbWFsbGVzdCBIZWFkaW5n"),
 wr : thekey.doitnow("PGNvZGU+PGg2PjwvY29kZT4="),
 ch : [
-thekey.doitnow("PGNvZGU+PGg5PjwvY29kZT4="),
+thekey.doitnow("Jmx0O2g5Jmd0Ow=="),
 thekey.doitnow("PGNvZGU+PGg2PjwvY29kZT4="),
 thekey.doitnow("PGNvZGU+PGgxPjwvY29kZT4="),
 thekey.doitnow("PGNvZGU+PGhzPjwvY29kZT4="),
