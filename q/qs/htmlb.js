@@ -38,12 +38,12 @@ thekey.doitnow("VG8gSW5zZXJ0IEJvcmRlciBSYWRpdXM="),
 {
 num : 4,
 ok : thekey.doitnow("SG93IFRvIEFkZCBIeXBlcmxpbmsgSW4gUGFnZQ=="),
-wr : thekey.doitnow("PGEgaHJlZj0iaHR0cHM6Ly93d3cubmFyZW5kcmFkd2l2ZWRpLm9yZyI+"),
+wr : thekey.doitnow("Jmx0O2EgaHJlZj0mcXVvdDtodHRwczovL3d3dy5uYXJlbmRyYWR3aXZlZGkub3JnJnF1b3Q7Jmd0Ow=="),
 ch : [
-thekey.doitnow("PGEgaHlwZXJyZWY9Imh0dHBzOi8vd3d3Lm5hcmVuZHJhZHdpdmVkaS5vcmciPg=="),
-thekey.doitnow("PGEgdGFyZ2V0PSJodHRwczovL3d3dy5uYXJlbmRyYWR3aXZlZGkub3JnIj4="),
-thekey.doitnow("PGEgaHJlZj0iaHR0cHM6Ly93d3cubmFyZW5kcmFkd2l2ZWRpLm9yZyI+"),
-thekey.doitnow("PGh5cGVycmVmIGE9Imh0dHBzOi8vd3d3Lm5hcmVuZHJhZHdpdmVkaS5vcmciPg=="),
+thekey.doitnow("Jmx0O2EgaHlwZXJyZWY9JnF1b3Q7aHR0cHM6Ly93d3cubmFyZW5kcmFkd2l2ZWRpLm9yZyZxdW90OyZndDs="),
+thekey.doitnow("Jmx0O2EgdGFyZ2V0PSZxdW90O2h0dHBzOi8vd3d3Lm5hcmVuZHJhZHdpdmVkaS5vcmcmcXVvdDsmZ3Q7"),
+thekey.doitnow("Jmx0O2EgaHJlZj0mcXVvdDtodHRwczovL3d3dy5uYXJlbmRyYWR3aXZlZGkub3JnJnF1b3Q7Jmd0Ow=="),
+thekey.doitnow("Jmx0O2h5cGVycmVmIGE9JnF1b3Q7aHR0cHM6Ly93d3cubmFyZW5kcmFkd2l2ZWRpLm9yZyZxdW90OyZndDs="),
 
 ]
 },
@@ -88,10 +88,10 @@ num : 8,
 ok : thekey.doitnow("V2hpY2ggVGFnIElzIFVzZWQgVG8gSW5zZXJ0IFRleHRCb3ggSW4gUGFnZQ=="),
 wr : thekey.doitnow("PGlucHV0Pg=="),
 ch : [
-thekey.doitnow("PHRleHRhcmVhPg=="),
-thekey.doitnow("PHRleHQ+"),
-thekey.doitnow("PGlucHV0Pg=="),
-thekey.doitnow("PHRleHQgdHlwZT0iYm94Ij4="),
+thekey.doitnow("Jmx0O3RleHRhcmVhJmd0Ow=="),
+thekey.doitnow("Jmx0O3RleHQmZ3Q7"),
+thekey.doitnow("Jmx0O2lucHV0Jmd0Ow=="),
+thekey.doitnow("Jmx0O3RleHQgdHlwZT0mcXVvdDtib3gmcXVvdDsmZ3Q7"),
 
 ]
 },
